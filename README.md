@@ -1,6 +1,5 @@
 # Dashboard Creation Report
 
-Overview
 This report details the process of creating a dashboard using data from the 'Walmart.csv' file, hosted on GitHub. The dashboard is designed to provide the details of sales, customer and product performance. The following sections outline the API selection, data fetching steps, and the visual elements used in the dashboard.
 
 ## API Selection and Data Fetching
